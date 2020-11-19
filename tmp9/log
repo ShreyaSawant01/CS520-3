@@ -1,0 +1,6 @@
+delta settings:
+	temporary directory: tmp9
+	granularity: line
+	input: <stdin>
+
+delta start                             0 sec/00:00:00	Thu Nov 19 18:46:55 2020
