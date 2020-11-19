@@ -1,0 +1,22 @@
+delta settings:
+	temporary directory: tmp12
+	granularity: line
+	input: <stdin>
+
+delta start                             0 sec/00:00:00	Thu Nov 19 18:52:26 2020
+000.c, lines: 500                       5 sec/00:00:05	Thu Nov 19 18:52:31 2020
+001.c, lines: 250                       10 sec/00:00:10	Thu Nov 19 18:52:36 2020
+003.c, lines: 125                       15 sec/00:00:15	Thu Nov 19 18:52:41 2020
+010.c, lines: 93                        20 sec/00:00:20	Thu Nov 19 18:52:46 2020
+011.c, lines: 62                        25 sec/00:00:25	Thu Nov 19 18:52:51 2020
+017.c, lines: 47                        31 sec/00:00:31	Thu Nov 19 18:52:57 2020
+019.c, lines: 32                        36 sec/00:00:36	Thu Nov 19 18:53:02 2020
+024.c, lines: 24                        41 sec/00:00:41	Thu Nov 19 18:53:07 2020
+025.c, lines: 16                        46 sec/00:00:46	Thu Nov 19 18:53:12 2020
+031.c, lines: 12                        51 sec/00:00:51	Thu Nov 19 18:53:17 2020
+032.c, lines: 8                         56 sec/00:00:56	Thu Nov 19 18:53:22 2020
+038.c, lines: 6                         61 sec/00:01:01	Thu Nov 19 18:53:27 2020
+040.c, lines: 4                         66 sec/00:01:06	Thu Nov 19 18:53:32 2020
+045.c, lines: 3                         71 sec/00:01:11	Thu Nov 19 18:53:37 2020
+046.c, lines: 2                         76 sec/00:01:16	Thu Nov 19 18:53:42 2020
+delta done                              76 sec/00:01:16	Thu Nov 19 18:53:42 2020
