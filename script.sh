@@ -1,6 +1,1 @@
-if ../../mysort $1 5 | grep -q "Error: timeout" 
-then 
-	exit 0;
-else
-	exit 1;
-fi
+../../mysort $1 5 | grep -q "Error: timeout" ? exit 0; : exit 1;
